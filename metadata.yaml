@@ -1,0 +1,41 @@
+_repo: New-House-That-Jack-BuiltAn-Original-American-Version_45067
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Stephens, H. L. (Henry Louis)
+    alias: Stephens, Henry Louis
+    birthdate: 1824
+    deathdate: 1882
+    gutenberg_agent_id: '7114'
+    url: http://www.gutenberg.org/2009/agents/7114
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Louis_Stephens
+  - agent_name: White, George G. (George Gorgas)
+    aliases:
+    - White, George Gorgas
+    - White, G. G.
+    deathdate: 1898
+    gutenberg_agent_id: '33888'
+    url: http://www.gutenberg.org/2009/agents/33888
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Whitehead, L. (Lewis)
+    gutenberg_agent_id: '43063'
+    url: http://www.gutenberg.org/2009/agents/43063
+description: ''
+gutenberg_issued: '2014-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45067'
+  lccn: '31028845'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Poetry'
+title: New House That Jack Built. An Original American Version
+url: http://www.gutenberg.org/ebooks/45067
